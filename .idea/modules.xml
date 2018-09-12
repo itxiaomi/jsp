@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JspDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/JspDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JspDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JspDemo_main.iml" group="JspDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JspDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JspDemo_test.iml" group="JspDemo" />
+    </modules>
+  </component>
+</project>
